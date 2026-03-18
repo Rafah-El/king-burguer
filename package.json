@@ -1,0 +1,8 @@
+{
+  "name": "king-burguer",
+  "version": "1.0.0",
+  "homepage": "https://rafah-el.github.io/king-burguer",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  }
+}
